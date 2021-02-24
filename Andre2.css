@@ -1,0 +1,35 @@
+body {
+  background-image:url('mma3.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: center;
+}
+h1{
+  font-family: areal;
+  color:Blue;
+  font-size:70px;
+}
+
+#segundop{
+  font-weight: bold;
+  color: red;
+} 
+#legenda{
+font-size: 10px;
+}
+figure{
+border: 0px grey solid;
+width:20%;
+}
+ul{
+   background-color:pink;
+}
+li{
+display:inline;
+margin-left:5%;
+margin-right:5%;
+}
+figcaption{
+  text-align:center;
+}
